@@ -4,7 +4,7 @@ exclude:
   - .github/
 header_pages:
   - 
-author: AceTheCloud.com
+author: https://AceTheCloud.com
 twitter_username: acethecloud
 github_username:  acethecloud
 plugins:
