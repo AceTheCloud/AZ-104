@@ -2,4 +2,4 @@
 
 ## Welcome
 
-- **[Link to labs (HTML format)](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)**
+- **[Link to labs (HTML format)](https://acethecloud.com/AZ-104.github.io)**
