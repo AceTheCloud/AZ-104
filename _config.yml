@@ -3,8 +3,8 @@ exclude:
   - readme.md
   - .github/
 header_pages:
-  - 
-author: https://AceTheCloud.com
+  - index.html
+author: AceTheCloud
 twitter_username: acethecloud
 github_username:  acethecloud
 plugins:
