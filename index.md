@@ -4,6 +4,7 @@ permalink: index.html
 layout: home
 ---
 # Course AZ-104T00: Microsoft Azure Administrator
+#### Duration : 32 hours / 4 days
 
 This course teaches IT Professionals how to manage their Azure subscriptions, secure identities, administer the infrastructure, configure virtual networking, connect Azure and on-premises sites, manage network traffic, implement storage solutions, create and scale virtual machines, implement web apps and containers, back up and share data, and monitor your solution.
 
