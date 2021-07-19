@@ -59,6 +59,7 @@ After completing this module, students will be able to:
 * Use RBAC to assign permissions.
 
 ### Module 3: Azure Administration
+
 In this module, you will learn about the tools an Azure Administrator uses to manage their infrastructure. This includes the Azure Portal, Cloud Shell, Azure PowerShell, CLI, and Resource Manager Templates. This module includes:
 
 ### Lessons
@@ -67,10 +68,13 @@ In this module, you will learn about the tools an Azure Administrator uses to ma
 * Azure Administrator Tools
 * ARM Templates
 
-* Lab : Manage Azure resources by Using ARM Templates
-* Lab : Manage Azure resources by Using Azure PowerShell (optional)
-* Lab : Manage Azure resources by Using Azure CLI (optional)
-* Lab : Manage Azure resources by Using the Azure Portal
+### Lab : Manage Azure resources by Using ARM Templates
+
+### Lab : Manage Azure resources by Using Azure PowerShell (optional)
+
+### Lab : Manage Azure resources by Using Azure CLI (optional)
+
+### Lab : Manage Azure resources by Using the Azure Portal
 
 After completing this module, students will be able to:
 
@@ -80,6 +84,7 @@ After completing this module, students will be able to:
 * Use ARM Templates to deploy resources.
 
 ### Module 4: Virtual Networking
+
 In this module, you will learn about basic virtual networking concepts like virtual networks and subnetting, IP addressing, network security groups, Azure Firewall, and Azure DNS.
 
 ### Lessons
@@ -89,7 +94,7 @@ In this module, you will learn about basic virtual networking concepts like virt
 * Azure Firewall
 * Azure DNS
 
-*Lab : Implement Virtual Networking
+### Lab : Implement Virtual Networking
 
 After completing this module, students will be able to:
 
@@ -99,6 +104,7 @@ After completing this module, students will be able to:
 * Configure private and public DNS zones.
 
 ### Module 5: Intersite Connectivity
+
 In this module, you will learn about intersite connectivity features including VNet Peering, Virtual Network Gateways, and Site-to-Site Connections.
 
 ### Lessons
@@ -116,6 +122,7 @@ After completing this module, students will be able to:
 * Choose the appropriate intersite connectivity solution.
 
 ### Module 6: Network Traffic Management
+
 In this module, you will learn about network traffic strategies including network routing and service endpoints, Azure Load Balancer, and Azure Application Gateway.
 
 ### Lessons
@@ -124,7 +131,7 @@ In this module, you will learn about network traffic strategies including networ
 * Azure Load Balancer
 * Azure Application Gateway
 
-Lab : Implement Traffic Management
+### Lab : Implement Traffic Management
 
 After completing this module, students will be able to:
 
@@ -133,6 +140,7 @@ After completing this module, students will be able to:
 * Configure and Azure Application Gateway.
 
 ### Module 7: Azure Storage
+
 In this module, you will learn about basic storage features including storage accounts, blob storage, Azure files and File Sync, storage security, and storage tools.
 
 ### Lessons
@@ -145,7 +153,8 @@ In this module, you will learn about basic storage features including storage ac
 
 ### Lab : Manage Azure storage
 
-* After completing this module, students will be able to:
+After completing this module, students will be able to:
+
 * Create Azure storage accounts.
 * Configure blob containers.
 * Secure Azure storage.
@@ -153,6 +162,7 @@ In this module, you will learn about basic storage features including storage ac
 * Manage storage with tools such as Storage Explorer.
 
 ### Module 8: Azure Virtual Machines
+
 In this module, you will learn about Azure virtual machines including planning, creating, availability and extensions.
 
 ### Lessons
@@ -172,6 +182,7 @@ After completing this module, students will be able to:
 * Use virtual machine extensions.
 
 ### Module 9: Serverless Computing
+
 In this module, you will learn how to administer serverless computing features like Azure App Service, Azure Container Instances, and Kubernetes.
 
 ### Lessons
@@ -209,6 +220,7 @@ After completing this module, students will be able to:
 * Backup and restore virtual machines.
 
 ### Module 11: Monitoring
+
 In this module, you will learn about monitoring your Azure infrastructure including Azure Monitor, alerting, and log analytics.
 
 ### Lessons
