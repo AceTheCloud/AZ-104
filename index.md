@@ -3,6 +3,9 @@ title: Online Hosted Instructions
 permalink: index.html
 layout: home
 ---
+
+![AZ-104](az-104.png)
+
 # Course AZ-104T00: Microsoft Azure Administrator
 #### Duration : 32 hours / 4 days
 
